@@ -1,0 +1,1 @@
+alert ip  any any ->  any any (msg:"traffic_monitor";content:"data"; sid:200001; rev:1;)
